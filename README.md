@@ -1,4 +1,4 @@
-🌦 Weather Data Analysis Project
+
 # 🌦 Weather Data Analysis Project
 
 This project analyzes weather data to identify climate patterns and trends.
